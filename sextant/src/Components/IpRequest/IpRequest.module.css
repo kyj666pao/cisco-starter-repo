@@ -1,11 +1,9 @@
 .container {
-  width: 90vw;
   margin: 16px;
   padding: 16px 24px;
   border: 2px solid blue;
   border-radius: 10px;
-  display: inline-flex;
 }
 .container h2 {
   color: blue;
-}/*# sourceMappingURL=Exhibit.module.css.map */
+}/*# sourceMappingURL=IpRequest.module.css.map */
