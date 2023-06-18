@@ -1,0 +1,9 @@
+.container {
+  margin: 16px;
+  padding: 16px 24px;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
+.container h2 {
+  color: blue;
+}/*# sourceMappingURL=DisplayLatency.module.css.map */

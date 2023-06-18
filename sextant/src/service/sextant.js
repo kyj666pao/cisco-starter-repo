@@ -1,4 +1,4 @@
-export async function getIP(IPv) {
+async function getIP(IPv) {
     const url = IPv == "IPv4" 
         ? "https://api.ipify.org/?format=json" 
         : "https://api.ipify.org/?format=json"
